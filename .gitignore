@@ -131,3 +131,5 @@ dist
 .pnp.*
 *.rar
 backup/mysql/*.sql
+release/
+mysql/
